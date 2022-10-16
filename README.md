@@ -89,7 +89,12 @@
 
 #### Papers
 
-- [Stabilizer Codes and Quantum Error Correction Thesis by Daniel Gottesman](https://arxiv.org/abs/quant-ph/9705052)
+> Important
+
+- [Stabilizer Codes and Quantum Error Correction Thesis by Daniel Gottesman](https://arxiv.org/abs/quant-ph/9705052) 
+- [Quantum Error Correction for Quantum Memories by Barbara M. Terhal](https://arxiv.org/abs/1302.3428)
+- [Quantum Error Correction for Beginners](https://arxiv.org/abs/0905.2794)
+- []
 
 ### References 
 
